@@ -64,3 +64,36 @@
 
 **Link to work:** [Drawing book](https://github.com/edwarhman/hackerrank-challenges/blob/main/drawing-book.js), [Tower breakers](https://github.com/edwarhman/hackerrank-challenges/blob/main/tower-breakers.js) and [Ceasar cipher](https://github.com/edwarhman/hackerrank-challenges/blob/main/ceasar-cipher.js)
 
+### Day 9: October 6, 2021)
+##### a challenge from [HackerRank](https://www.hackerrank.com/) solved (MaxMin)
+
+**Today's Progress**: I solved a challenge called MaxMin. Given a array arr and a integer k that is less than arr size. You have to find the subarray of length k which difference between its firts and last element is minimal and then return the value of the minimal value. 
+
+**Thoughts:** I had problems because I tried to use an dictionary structure to find the minimal and it means too many steps to execute, and not a efficient aproach.
+
+**Link to work:** [Max min unfairness](https://github.com/edwarhman/hackerrank-challenges/blob/main/max-min-unfairness.js)
+
+### Day 10: October 7, 2021)
+##### I started to code my personal portfolio
+
+**Today's Progress**: I coded the navbar of my portfolio. I put some button options, style the bar and animate it.   
+
+**Thoughts:** I did't know how to animate element very well, so I had to reseach how animation in CSS work.
+
+**To do**: I have to make mi navbar responsive.
+
+**Link to work:** [Personal Portfolio](https://github.com/edwarhman/portfolio-website)
+
+### Day 11: October 8, 2021)
+##### I tried to do the Dynamic array challenge from [HackerRank](https://www.hackerrank.com/)
+
+**Today's Progress**: I tried to solve the challenge which given a matrix of intgers you have to create a new array dynamically and return the answers following the challenge specification.    
+
+**Thoughts:** I I tried to create the new array not sufficient dynamic I think. So I was able to reach with a solution after seeing the discussion a bit.
+
+### Day 12: October 9, 2021)
+##### Two challenges from [HackerRank](https://www.hackerrank.com/) solved (Dynamic array and Char grid)
+
+**Today's Progress**: I solved two challenges from HackerRank. The one that I couln't complete yesterday and the Char grid challenge that consist in the following: Given a grid of char elements so I need to sort ascending all its rows and then check if all the columms are sorted in ascending order. If they're so return "YES", else return "NO". I used split, map, forEach, charCodeAt to solve this problem.
+
+**Link to work:** [Dynamic Array](https://github.com/edwarhman/hackerrank-challenges/blob/main/dynamic-array.js), [Char Grid](https://github.com/edwarhman/hackerrank-challenges/blob/main/char-grid.js)
